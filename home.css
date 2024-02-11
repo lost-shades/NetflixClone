@@ -1,0 +1,185 @@
+body {
+    width: 1440px;
+    height: 3123px;
+    top: -513px;
+    left: -852px;
+    background-color: black;
+  }
+  nav {
+    color: white;
+  }
+  header {
+    background-image: url(images/MoviePoster.png);
+    height: 810px;
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  .headerdiv {
+    /* border: 5px solid red; */
+    width: max-content;
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+  .yanimda {
+    /* border: 5px solid red; */
+    width: 408;
+    height: 115px;
+  }
+  .rank {
+    /* border: 5px solid brown; */
+    width: 450px;
+    height: 38px;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  .paragraph1 {
+    /* border: 5px solid blue; */
+    width: 600px;
+    font-weight: 400;
+    font-size: 26px;
+    height: 132px;
+    /* height: 115px; */
+  }
+  .container {
+    color: white;
+    width: 1445px;
+    height: 171px;
+    gap: 5px;
+    margin-left: 40px;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  footer {
+    color: white;
+  }
+  .headerbuttons {
+    /* border: 5px solid red; */
+    width: 466px;
+    height: 62px;
+    gap: 15px;
+    display: flex;
+    align-items: center;
+  }
+  .button1 {
+    color: black;
+    background-color: white;
+    width: 175px;
+    height:62px;
+    border-radius: 4px;
+    padding: 15px, 30px, 15px, 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 500;
+    font-size: 22px;
+    cursor: pointer;
+  }
+  .button2 {
+    width: 276px;
+    background-color: rgba(255, 255, 255, 0.3);
+    height: 62px;
+    border-radius: 4px;
+    padding: 15px, 30px, 15px, 30px;
+    color: white;
+    display: flex;
+    cursor: pointer;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 500;
+    font-size: 22px;
+  }
+  .menuicon {
+    /* border: 5px solid yellow; */
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  nav {
+    /* border: 5px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .navdiv {
+    /* border: 5px solid pink; */
+    width: 700px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  ul {
+    /* border: 5px solid red; */
+    display: flex;
+    list-style: none;
+    font-weight: 500;
+    font-size: 14px;
+    gap: 20px;
+  }
+  .title1 {
+    font-weight: 500;
+    font-size: 26px;
+  }
+  
+  footer{
+    position: absolute;
+  }
+  .div9p {
+    /* border: 5px solid green; */
+    width: 200px;
+    margin-left: 50px;
+  }
+  .div9 {
+    /* border: 5px solid red; */
+    margin-left: -68px;
+    display: flex;
+    flex-direction: column;
+  }
+  .div10 {
+    border: 5px solid yellow;
+  }
+
+  .section {
+    display: flex;
+    flex-direction: row;
+    width: 1445px;
+    height: 171px;
+    gap: 5px;
+  }
+  .details {
+    /* border: 5px solid blue; */
+    color: rgba(153, 153, 153, 1);
+    display: flex;
+    width: 900px;
+    height: 163px;
+    top: 50px;
+    gap: 70px;
+    flex-direction: row;
+    align-items: center;
+  }
+
+footer {
+    width: 1440px;
+    height: 288px;
+    top: 2835px;
+    padding: 20px, 300px;
+    gap: 20px;
+    
+}
+.footer2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: space-between;
+
+}
+.footer3 p {
+    border: 1px solid #808080;
+    padding: 0;
+    margin-bottom: 10px;
+    display: inline-block;
+}
